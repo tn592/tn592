@@ -54,7 +54,7 @@ public:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,c,python,js,django,mysql,postgresql,sqlite,vimreact,html,css,tailwind,bootstrap,github,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,c,python,js,django,mysql,postgresql,sqlite,react,html,css,tailwind,bootstrap,github,vscode,vim,linux" />
   </a>
 </p>
 
