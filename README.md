@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### Software Engineering Student • Backend Developer • Problem Solver
+### Software Engineer • Backend Developer • Problem Solver
 
 <p>
   <a href="https://leetcode.com/u/tn231104/">
@@ -29,8 +29,8 @@
 ```cpp
 class Tanzina {
 public:
-    string role = "Software Engineering Student";
-    string focus = "Backend Development & APIs";
+    string role = "Computer Science Student";
+    string focus = "Backend Engineering & APIs";
     string currentlyLearning = "System Design + Cybersecurity";
     string favoriteLanguage = "C++";
     bool lovesLinux = true;
