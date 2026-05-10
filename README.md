@@ -107,8 +107,8 @@ public:
 ## 🎯 Fun Facts
 
 * 🌃 Night coding sessions are elite
-* 🧠 I enjoy solving programming problems and debugging weird bugs
-* 💡 I love building things while learning
+* 🐾 My cat sometimes supervises my coding sessions like a strict project manager
+* 🏰 I love castles and mysterious ancient architecture
 
 ---
 
