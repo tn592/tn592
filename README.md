@@ -12,11 +12,11 @@
 ### Software Engineering Student • Backend Developer • Problem Solver
 
 <p>
-  <a href="https://github.com/tn592">
-    <img src="https://img.shields.io/badge/GitHub-tn592-181717?style=for-the-badge&logo=github" />
+  <a href="https://leetcode.com/u/tn231104/">
+    <img src="https://img.shields.io/badge/LeetCode-tn231104-orange?style=for-the-badge&logo=leetcode" />
   </a>
-  <a href="https://leetcode.com/u/tn231104">
-    <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-orange?style=for-the-badge&logo=leetcode" />
+  <a href="https://codeforces.com/profile/tn012">
+    <img src="https://img.shields.io/badge/Codeforces-tn012-1F8ACB?style=for-the-badge&logo=codeforces" />
   </a>
 </p>
 
