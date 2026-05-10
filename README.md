@@ -52,28 +52,10 @@ public:
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,mysql,postgresql,sqlite" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-</p>
-
-### Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,c,python,js,django,mysql,postgresql,sqlite,vimreact,html,css,tailwind,bootstrap,github,vscode,linux" />
+  </a>
 </p>
 
 ---
