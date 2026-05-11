@@ -1,0 +1,56 @@
+<svg width="200" height="56" viewBox="0 0 200 56" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgLC" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1208"/>
+      <stop offset="50%" stop-color="#2a1d09"/>
+      <stop offset="100%" stop-color="#1a1208"/>
+    </linearGradient>
+    <linearGradient id="borderLC" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d4a843"/>
+      <stop offset="30%" stop-color="#8B6914"/>
+      <stop offset="70%" stop-color="#c9a84c"/>
+      <stop offset="100%" stop-color="#8B6914"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Outer border -->
+  <rect x="1" y="1" width="198" height="54" rx="2" fill="url(#bgLC)" stroke="url(#borderLC)" stroke-width="1.5"/>
+
+  <!-- Inner border inset -->
+  <rect x="4" y="4" width="192" height="48" rx="1" fill="none" stroke="#8B6914" stroke-width="0.5" opacity="0.5"/>
+
+  <!-- Corner ornaments -->
+  <!-- Top-left -->
+  <path d="M4,10 L4,4 L10,4" fill="none" stroke="#d4a843" stroke-width="1.2"/>
+  <!-- Top-right -->
+  <path d="M190,4 L196,4 L196,10" fill="none" stroke="#d4a843" stroke-width="1.2"/>
+  <!-- Bottom-left -->
+  <path d="M4,46 L4,52 L10,52" fill="none" stroke="#d4a843" stroke-width="1.2"/>
+  <!-- Bottom-right -->
+  <path d="M190,52 L196,52 L196,46" fill="none" stroke="#d4a843" stroke-width="1.2"/>
+
+  <!-- Divider line -->
+  <line x1="20" y1="28" x2="62" y2="28" stroke="#8B6914" stroke-width="0.5" opacity="0.6"/>
+  <line x1="138" y1="28" x2="180" y2="28" stroke="#8B6914" stroke-width="0.5" opacity="0.6"/>
+
+  <!-- Sword icon -->
+  <text x="26" y="33" font-size="13" fill="#c9a84c" font-family="serif" filter="url(#glow)">⚔</text>
+
+  <!-- Main text -->
+  <text x="100" y="24" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="11" font-weight="bold" fill="#d4a843" letter-spacing="3" filter="url(#glow)">LEETCODE</text>
+
+  <!-- Sub text -->
+  <text x="100" y="38" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="9" fill="#8B6914" letter-spacing="2">tn231104</text>
+
+  <!-- Diamond ornament right -->
+  <text x="170" y="33" font-size="10" fill="#c9a84c" font-family="serif" text-anchor="middle">✦</text>
+
+  <!-- Top center ornament -->
+  <text x="100" y="11" text-anchor="middle" font-size="7" fill="#8B6914" font-family="serif" letter-spacing="1">· · ·</text>
+  <!-- Bottom center ornament -->
+  <text x="100" y="51" text-anchor="middle" font-size="7" fill="#8B6914" font-family="serif" letter-spacing="1">· · ·</text>
+</svg>
