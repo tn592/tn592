@@ -7,8 +7,6 @@
 > learning mode     [ALWAYS ON]
 ```
 
-<div align="center">
-
 ---
 
 ## 🌌 About Me
