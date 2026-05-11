@@ -1,4 +1,4 @@
-
+![Banner](tanzina_github_banner.png)
 
 # Hey, I'm Tanzina 👋
 
